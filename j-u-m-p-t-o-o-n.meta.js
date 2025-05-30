@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         j-u-m-p-t-o-o-n
 // @namespace    j-u-m-p-t-o-o-n.user.js
-// @version      2024.10.12
+// @version      2025.05.30
 // @description  down j-u-m-p-t-o-o-n
 // @author       You
 // @include      /^https:\/\/j[u2]mpt[o0]on\.c[o0]m\/s[e3]ri[e3]s\/.+?\/[e3]pis[o0]des\//
